@@ -1,4 +1,4 @@
- import streamlit as st
+import streamlit as st
 import random
 
 st.title("📘 유리함수 문제풀이 O/X 맞추기")
